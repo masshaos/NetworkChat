@@ -8,9 +8,9 @@ public class Main {
         System.out.println("START MESS: " + Settings.START_MESSAGE_NEW_CLIENT);
         System.out.println("EXIT MES: " + Settings.EXIT_MESSAGE);
 
-        Logger logger = Logger.getInstance();
-        logger.log("Kzkzkz");
-        logger.log(";lkjhbgvcf");
+//        Logger logger = Logger.getInstance();
+//        logger.log("Kzkzkz");
+//        logger.log(";lkjhbgvcf");
 
         Server server = new Server();
 

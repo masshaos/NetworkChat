@@ -15,10 +15,11 @@ public class Server {
         int idUser = 1;
         try (ServerSocket serverSocket = new ServerSocket(Settings.PORT)) {
             logger.log("Сервер запущен.");
+            System.out.println("Сервер запущен");
             while (true) {
                 try {
                     Socket socket = serverSocket.accept();
-                    UserThread userthread = new Userthread(socket, this, idUser++);
+                    UserThread userthread = new UserThread(socket, this, idUser++);
                 } catch (IOException e) {
                     logger.log(Arrays.toString(e.getStackTrace()) + " " + e.getMessage());
                 }
