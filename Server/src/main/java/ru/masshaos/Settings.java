@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class Settings {
-    private static final String SETTINGS_FILE_NAME = "Server/src/main/resources/settings_server.prop";
+    private static final String SETTINGS_FILE_NAME = "Server/src/main/resources/server.properties";
     public static int PORT;
     public static String START_MESSAGE_NEW_CLIENT;
     public static String EXIT_MESSAGE;
