@@ -20,6 +20,7 @@ public class Server {
                 try {
                     Socket socket = serverSocket.accept();
                     UserThread userthread = new UserThread(socket, this, idUser++);
+                    userthread.start();
                 } catch (IOException e) {
                     logger.log(Arrays.toString(e.getStackTrace()) + " " + e.getMessage());
                 }

@@ -1,0 +1,114 @@
+1. [Mon Mar 13 15:31:28 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+1. [Mon Mar 13 15:35:40 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+1. [Mon Mar 13 16:23:08 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 16:23:08 MSK 2023] Клиент запущен
+3. [Mon Mar 13 16:23:08 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=52481]
+4. [Mon Mar 13 16:27:30 MSK 2023] Клиентское приложение остановлено
+5. [Mon Mar 13 16:27:31 MSK 2023] [java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313), java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340), java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789), java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025), java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333), java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376), java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219), java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173), java.base/java.io.InputStreamReader.read(InputStreamReader.java:189), java.base/java.io.BufferedReader.fill(BufferedReader.java:161), java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371), java.base/java.io.BufferedReader.readLine(BufferedReader.java:348), java.base/java.io.BufferedReader.readLine(BufferedReader.java:437), ru.masshaos.ListenThread.run(ListenThread.java:23)] Connection reset
+6. [Mon Mar 13 16:27:31 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 16:32:16 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 16:32:16 MSK 2023] Клиент запущен
+3. [Mon Mar 13 16:32:16 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=52524]
+1. [Mon Mar 13 16:35:45 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 16:35:46 MSK 2023] Клиент запущен
+3. [Mon Mar 13 16:35:46 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=52544]
+1. [Mon Mar 13 16:41:31 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 16:41:31 MSK 2023] Клиент запущен
+3. [Mon Mar 13 16:41:31 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=52574]
+1. [Mon Mar 13 17:07:07 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:07:07 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:07:07 MSK 2023] [java.base/sun.nio.ch.Net.connect0(Native Method), java.base/sun.nio.ch.Net.connect(Net.java:579), java.base/sun.nio.ch.Net.connect(Net.java:568), java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:576), java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327), java.base/java.net.Socket.connect(Socket.java:666), java.base/java.net.Socket.connect(Socket.java:600), java.base/java.net.Socket.<init>(Socket.java:509), java.base/java.net.Socket.<init>(Socket.java:289), ru.masshaos.Client.<init>(Client.java:19), ru.masshaos.MainClient.main(MainClient.java:12)] Connection refused: connect
+4. [Mon Mar 13 17:07:07 MSK 2023] Клиентское приложение остановлено
+1. [Mon Mar 13 17:25:14 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:25:15 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:25:15 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49514]
+1. [Mon Mar 13 17:29:54 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:29:54 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:29:54 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49591]
+1. [Mon Mar 13 17:34:15 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:34:15 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:34:15 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49609]
+4. [Mon Mar 13 17:34:19 MSK 2023] {Server} "Dima" вошел в чат
+5. [Mon Mar 13 17:34:54 MSK 2023] {Dima} Всем здрасте
+6. [Mon Mar 13 17:35:17 MSK 2023] {Dima} Меня зовут Дима
+7. [Mon Mar 13 17:35:26 MSK 2023] {Dima} Пошли все в Жопу
+8. [Mon Mar 13 17:36:07 MSK 2023] {Dima} 
+9. [Mon Mar 13 17:36:11 MSK 2023] {Server} "Dima" покинул чат
+10. [Mon Mar 13 17:36:11 MSK 2023] Клиентское приложение остановлено
+11. [Mon Mar 13 17:36:11 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:40:41 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:40:41 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:40:41 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49689]
+1. [Mon Mar 13 17:41:47 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:41:48 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:41:48 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49697]
+4. [Mon Mar 13 17:47:46 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:47:56 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:47:56 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:47:56 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49765]
+4. [Mon Mar 13 17:48:00 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:48:53 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:48:53 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:48:53 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49803]
+4. [Mon Mar 13 17:48:58 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:49:20 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:49:20 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:49:20 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49808]
+4. [Mon Mar 13 17:51:22 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:51:27 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:51:28 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:51:28 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49828]
+4. [Mon Mar 13 17:52:37 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:52:58 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:52:59 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:52:59 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49838]
+4. [Mon Mar 13 17:53:40 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:54:09 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:54:09 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:54:10 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49845]
+1. [Mon Mar 13 17:54:41 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:54:41 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:54:42 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49860]
+4. [Mon Mar 13 17:55:28 MSK 2023] {Server} "Dima" вошел в чат
+1. [Mon Mar 13 17:55:56 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:55:56 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:55:56 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49870]
+4. [Mon Mar 13 17:56:00 MSK 2023] {Server} "Dima" вошел в чат
+5. [Mon Mar 13 17:56:03 MSK 2023] {Dima} :jfgd
+6. [Mon Mar 13 17:56:08 MSK 2023] {Dima} sdf
+7. [Mon Mar 13 17:56:12 MSK 2023] {Dima} dftyjty
+8. [Mon Mar 13 17:56:19 MSK 2023] Клиентское приложение остановлено
+9. [Mon Mar 13 17:56:19 MSK 2023] {Server} "Dima" покинул чат
+10. [Mon Mar 13 17:56:19 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Mon Mar 13 17:58:51 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 17:58:51 MSK 2023] Клиент запущен
+3. [Mon Mar 13 17:58:51 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49937]
+1. [Mon Mar 13 20:57:09 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 20:57:09 MSK 2023] Клиент запущен
+3. [Mon Mar 13 20:57:09 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=50557]
+1. [Mon Mar 13 20:57:55 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 20:57:55 MSK 2023] Клиент запущен
+3. [Mon Mar 13 20:57:55 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=50565]
+1. [Mon Mar 13 20:58:44 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 20:58:44 MSK 2023] Клиент запущен
+3. [Mon Mar 13 20:58:44 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=50587]
+1. [Mon Mar 13 21:08:33 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 21:08:33 MSK 2023] Клиент запущен
+3. [Mon Mar 13 21:08:33 MSK 2023] [java.base/sun.nio.ch.Net.connect0(Native Method), java.base/sun.nio.ch.Net.connect(Net.java:579), java.base/sun.nio.ch.Net.connect(Net.java:568), java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:576), java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327), java.base/java.net.Socket.connect(Socket.java:666), java.base/java.net.Socket.connect(Socket.java:600), java.base/java.net.Socket.<init>(Socket.java:509), java.base/java.net.Socket.<init>(Socket.java:289), ru.masshaos.Client.<init>(Client.java:19), ru.masshaos.MainClient.main(MainClient.java:12)] Connection refused: connect
+4. [Mon Mar 13 21:08:33 MSK 2023] Клиентское приложение остановлено
+1. [Mon Mar 13 21:08:41 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 21:08:41 MSK 2023] Клиент запущен
+3. [Mon Mar 13 21:08:41 MSK 2023] [java.base/sun.nio.ch.Net.connect0(Native Method), java.base/sun.nio.ch.Net.connect(Net.java:579), java.base/sun.nio.ch.Net.connect(Net.java:568), java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:576), java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327), java.base/java.net.Socket.connect(Socket.java:666), java.base/java.net.Socket.connect(Socket.java:600), java.base/java.net.Socket.<init>(Socket.java:509), java.base/java.net.Socket.<init>(Socket.java:289), ru.masshaos.Client.<init>(Client.java:19), ru.masshaos.MainClient.main(MainClient.java:12)] Connection refused: connect
+4. [Mon Mar 13 21:08:41 MSK 2023] Клиентское приложение остановлено
+1. [Mon Mar 13 21:09:03 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 21:09:03 MSK 2023] Клиент запущен
+3. [Mon Mar 13 21:09:03 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=51121]
+1. [Mon Mar 13 21:13:05 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 21:13:05 MSK 2023] Клиент запущен
+3. [Mon Mar 13 21:13:06 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=51455]
+1. [Mon Mar 13 21:13:27 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 21:13:28 MSK 2023] Клиент запущен
+3. [Mon Mar 13 21:13:28 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=51514]
+1. [Mon Mar 13 21:25:03 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Mon Mar 13 21:25:03 MSK 2023] Клиент запущен
+3. [Mon Mar 13 21:25:03 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=49883]

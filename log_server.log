@@ -5,3 +5,96 @@
 1. [Sun Mar 05 17:59:51 MSK 2023] Сервер запущен.
 1. [Sun Mar 05 18:01:24 MSK 2023] Сервер запущен.
 1. [Sun Mar 12 18:03:24 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 15:25:38 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 15:25:38 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 15:36:18 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 15:36:18 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 16:22:54 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 16:22:54 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 16:32:09 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 16:32:09 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 17:07:28 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:07:29 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 17:24:46 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:24:46 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 17:28:56 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:28:57 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 17:34:03 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:34:04 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 17:34:15 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=49609,localport=4444]
+4. [Mon Mar 13 17:34:19 MSK 2023] Юзер "Dima" вошел в чат
+5. [Mon Mar 13 17:34:54 MSK 2023] {Dima}Всем здрасте
+6. [Mon Mar 13 17:35:17 MSK 2023] {Dima}Меня зовут Дима
+7. [Mon Mar 13 17:35:26 MSK 2023] {Dima}Пошли все в Жопу
+8. [Mon Mar 13 17:36:07 MSK 2023] {Dima}
+9. [Mon Mar 13 17:36:11 MSK 2023] Юзер "Dima" покинул чат
+10. [Mon Mar 13 17:36:11 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=49609,localport=4444]
+1. [Mon Mar 13 17:39:13 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:39:14 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 17:40:41 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=49689,localport=4444]
+4. [Mon Mar 13 17:40:44 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=49689,localport=4444]
+5. [Mon Mar 13 17:41:48 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=49697,localport=4444]
+6. [Mon Mar 13 17:47:46 MSK 2023] Клиент2 отключен:Socket[addr=/127.0.0.1,port=49697,localport=4444]
+7. [Mon Mar 13 17:47:56 MSK 2023] Клиент 3 подключен:Socket[addr=/127.0.0.1,port=49765,localport=4444]
+8. [Mon Mar 13 17:48:00 MSK 2023] Клиент3 отключен:Socket[addr=/127.0.0.1,port=49765,localport=4444]
+9. [Mon Mar 13 17:48:53 MSK 2023] Клиент 4 подключен:Socket[addr=/127.0.0.1,port=49803,localport=4444]
+10. [Mon Mar 13 17:48:57 MSK 2023] Клиент4 отключен:Socket[addr=/127.0.0.1,port=49803,localport=4444]
+11. [Mon Mar 13 17:49:20 MSK 2023] Клиент 5 подключен:Socket[addr=/127.0.0.1,port=49808,localport=4444]
+12. [Mon Mar 13 17:49:28 MSK 2023] Клиент5 отключен:Socket[addr=/127.0.0.1,port=49808,localport=4444]
+13. [Mon Mar 13 17:51:28 MSK 2023] Клиент 6 подключен:Socket[addr=/127.0.0.1,port=49828,localport=4444]
+14. [Mon Mar 13 17:51:31 MSK 2023] Клиент6 отключен:Socket[addr=/127.0.0.1,port=49828,localport=4444]
+15. [Mon Mar 13 17:52:59 MSK 2023] Клиент 7 подключен:Socket[addr=/127.0.0.1,port=49838,localport=4444]
+16. [Mon Mar 13 17:53:02 MSK 2023] Клиент7 отключен:Socket[addr=/127.0.0.1,port=49838,localport=4444]
+17. [Mon Mar 13 17:54:10 MSK 2023] Клиент 8 подключен:Socket[addr=/127.0.0.1,port=49845,localport=4444]
+1. [Mon Mar 13 17:54:28 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:54:28 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 17:54:42 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=49860,localport=4444]
+4. [Mon Mar 13 17:54:46 MSK 2023] Юзер "Dima" вошел в чат
+1. [Mon Mar 13 17:55:47 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:55:47 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 17:55:56 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=49870,localport=4444]
+4. [Mon Mar 13 17:56:00 MSK 2023] Юзер "Dima" вошел в чат
+5. [Mon Mar 13 17:56:03 MSK 2023] {Dima}:jfgd
+6. [Mon Mar 13 17:56:08 MSK 2023] {Dima}sdf
+7. [Mon Mar 13 17:56:12 MSK 2023] {Dima}dftyjty
+8. [Mon Mar 13 17:56:19 MSK 2023] Юзер "Dima" покинул чат
+9. [Mon Mar 13 17:56:19 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=49870,localport=4444]
+1. [Mon Mar 13 17:57:45 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 17:57:45 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 17:58:51 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=49937,localport=4444]
+4. [Mon Mar 13 17:58:54 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=49937,localport=4444]
+1. [Mon Mar 13 20:54:34 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 20:54:34 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 20:55:33 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 20:55:33 MSK 2023] Сервер запущен.
+1. [Mon Mar 13 20:57:01 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 20:57:01 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 20:57:09 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=50557,localport=4444]
+4. [Mon Mar 13 20:57:12 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=50557,localport=4444]
+5. [Mon Mar 13 20:57:55 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=50565,localport=4444]
+6. [Mon Mar 13 20:57:58 MSK 2023] Клиент2 отключен:Socket[addr=/127.0.0.1,port=50565,localport=4444]
+7. [Mon Mar 13 20:58:44 MSK 2023] Клиент 3 подключен:Socket[addr=/127.0.0.1,port=50587,localport=4444]
+8. [Mon Mar 13 20:58:47 MSK 2023] Клиент3 отключен:Socket[addr=/127.0.0.1,port=50587,localport=4444]
+1. [Mon Mar 13 21:08:58 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 21:08:58 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 21:09:03 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=51121,localport=4444]
+4. [Mon Mar 13 21:09:08 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=51121,localport=4444]
+1. [Mon Mar 13 21:12:10 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 21:12:11 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:16), ru.masshaos.MainServer.main(MainServer.java:15)] Address already in use: bind
+3. [Mon Mar 13 21:12:11 MSK 2023] Сервер остановлен
+1. [Mon Mar 13 21:12:21 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 21:12:21 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:16), ru.masshaos.MainServer.main(MainServer.java:15)] Address already in use: bind
+3. [Mon Mar 13 21:12:21 MSK 2023] Сервер остановлен
+1. [Mon Mar 13 21:12:57 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 21:12:57 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:16), ru.masshaos.MainServer.main(MainServer.java:15)] Address already in use: bind
+3. [Mon Mar 13 21:12:57 MSK 2023] Сервер остановлен
+5. [Mon Mar 13 21:13:06 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=51455,localport=4444]
+6. [Mon Mar 13 21:13:08 MSK 2023] Клиент2 отключен:Socket[addr=/127.0.0.1,port=51455,localport=4444]
+1. [Mon Mar 13 21:13:21 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 21:13:21 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 21:13:28 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=51514,localport=4444]
+4. [Mon Mar 13 21:13:30 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=51514,localport=4444]
+1. [Mon Mar 13 21:24:58 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 21:24:58 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 21:25:03 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=49883,localport=4444]
+4. [Mon Mar 13 21:25:05 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=49883,localport=4444]

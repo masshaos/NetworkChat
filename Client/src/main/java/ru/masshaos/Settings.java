@@ -13,15 +13,19 @@ public class Settings
     public static String SERVER_NAME;
 
     static{
+        Logger logger = Logger.getInstance();
         Properties properties=new Properties();
         try (FileReader fileReader =  new FileReader(SETTINGS_FILE_NAME)){
             properties.load(fileReader);
             PORT = Integer.parseInt(properties.getProperty("PORT"));
             START_MESSAGE_NEW_CLIENT = properties.getProperty("START_MESSAGE_NEW_CLIENT");
+            EXIT_MESSAGE = properties.getProperty("EXIT_MESSAGE");
             SERVER_NAME = properties.getProperty("SERVER_NAME");
-            //todo logger
+            logger.log("Прочитаны настройки из файла " + SETTINGS_FILE_NAME);
+            System.out.println("Прочитаны настройки из файла " + SETTINGS_FILE_NAME);
         }catch (IOException e){
-            //todo logger
+            System.out.println("Ошибка открытия файла " + SETTINGS_FILE_NAME);
+            logger.log("Ошибка открытия файла " + SETTINGS_FILE_NAME);
         }
     }
 }
