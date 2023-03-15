@@ -1,6 +1,7 @@
 package ru.masshaos;
 
 import java.io.IOException;
+import java.net.InetAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Arrays;
@@ -14,8 +15,8 @@ public class Server {
     public Server() {
         int idUser = 1;
         try (ServerSocket serverSocket = new ServerSocket(Settings.PORT)) {
-            logger.log("Сервер запущен.");
-            System.out.println("Сервер запущен");
+            logger.log("Сервер запущен по адресу: " + InetAddress.getLocalHost().getHostAddress() + ":" + Settings.PORT);
+            System.out.println("Сервер запущен по адресу: " + InetAddress.getLocalHost().getHostAddress() + ":" + Settings.PORT);
             while (true) {
                 try {
                     Socket socket = serverSocket.accept();

@@ -1,1 +1,1 @@
-java -jar Server\target\Server-1.0-SNAPSHOT.jar
+java -jar Server\target\Server-1.0-jar-with-dependencies.jar

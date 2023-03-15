@@ -98,3 +98,86 @@
 2. [Mon Mar 13 21:24:58 MSK 2023] Сервер запущен.
 3. [Mon Mar 13 21:25:03 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=49883,localport=4444]
 4. [Mon Mar 13 21:25:05 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=49883,localport=4444]
+1. [Mon Mar 13 22:39:03 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 22:39:03 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 22:39:06 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=50457,localport=4444]
+4. [Mon Mar 13 22:39:09 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=50457,localport=4444]
+5. [Mon Mar 13 22:40:01 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=50471,localport=4444]
+6. [Mon Mar 13 22:40:03 MSK 2023] Клиент2 отключен:Socket[addr=/127.0.0.1,port=50471,localport=4444]
+1. [Mon Mar 13 22:43:36 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 22:43:36 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 22:43:41 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=50504,localport=4444]
+4. [Mon Mar 13 22:43:44 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=50504,localport=4444]
+1. [Mon Mar 13 22:47:08 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 22:47:09 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 22:47:12 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=50769,localport=4444]
+4. [Mon Mar 13 22:47:16 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=50769,localport=4444]
+5. [Mon Mar 13 22:47:54 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=50789,localport=4444]
+6. [Mon Mar 13 22:47:59 MSK 2023] Клиент2 отключен:Socket[addr=/127.0.0.1,port=50789,localport=4444]
+1. [Mon Mar 13 22:49:35 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Mon Mar 13 22:49:35 MSK 2023] Сервер запущен.
+3. [Mon Mar 13 22:49:40 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=50817,localport=4444]
+4. [Mon Mar 13 22:49:42 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=50817,localport=4444]
+1. [Wed Mar 15 15:39:05 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 15:39:05 MSK 2023] Сервер запущен.
+1. [Wed Mar 15 15:50:28 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 15:50:28 MSK 2023] Сервер запущен.
+3. [Wed Mar 15 15:50:34 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=61866,localport=4444]
+4. [Wed Mar 15 15:50:37 MSK 2023] Юзер "Dima" вошел в чат
+5. [Wed Mar 15 15:50:47 MSK 2023] {Dima}��⢥�
+6. [Wed Mar 15 15:50:52 MSK 2023] {Dima}Privae
+7. [Wed Mar 15 15:51:33 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=61895,localport=4444]
+8. [Wed Mar 15 15:51:37 MSK 2023] Юзер "Alex" вошел в чат
+9. [Wed Mar 15 15:51:59 MSK 2023] {Dima}Jopa
+10. [Wed Mar 15 15:52:04 MSK 2023] {Dima}Jopa2
+11. [Wed Mar 15 15:52:11 MSK 2023] {Alex}qwert
+12. [Wed Mar 15 15:52:31 MSK 2023] {Dima}1
+13. [Wed Mar 15 15:52:35 MSK 2023] {Alex}2
+14. [Wed Mar 15 15:52:40 MSK 2023] {Dima}3
+15. [Wed Mar 15 15:52:44 MSK 2023] {Alex}4
+16. [Wed Mar 15 15:52:48 MSK 2023] Клиент 3 подключен:Socket[addr=/127.0.0.1,port=61938,localport=4444]
+17. [Wed Mar 15 15:52:54 MSK 2023] Юзер " Nick" вошел в чат
+18. [Wed Mar 15 15:53:05 MSK 2023] {Dima}234
+19. [Wed Mar 15 15:53:12 MSK 2023] { Nick} Nick
+20. [Wed Mar 15 15:53:19 MSK 2023] { Nick}345
+21. [Wed Mar 15 15:53:25 MSK 2023] {Alex}dgfhn
+22. [Wed Mar 15 15:53:57 MSK 2023] Юзер "Dima" покинул чат
+23. [Wed Mar 15 15:53:57 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=61866,localport=4444]
+24. [Wed Mar 15 15:54:01 MSK 2023] {Alex}213erdf
+25. [Wed Mar 15 15:54:09 MSK 2023] { Nick}dfghnbtygh
+26. [Wed Mar 15 15:54:57 MSK 2023] { Nick}exit
+27. [Wed Mar 15 15:55:01 MSK 2023] Юзер " Nick" покинул чат
+28. [Wed Mar 15 15:55:01 MSK 2023] Клиент3 отключен:Socket[addr=/127.0.0.1,port=61938,localport=4444]
+29. [Wed Mar 15 15:55:06 MSK 2023] Юзер "Alex" покинул чат
+30. [Wed Mar 15 15:55:06 MSK 2023] Клиент2 отключен:Socket[addr=/127.0.0.1,port=61895,localport=4444]
+1. [Wed Mar 15 16:00:22 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 16:00:22 MSK 2023] Сервер запущен.
+1. [Wed Mar 15 16:03:21 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 16:03:21 MSK 2023] Сервер запущен по адресу: 192.168.1.123:4444
+1. [Wed Mar 15 16:12:43 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 16:12:43 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:17), ru.masshaos.MainServer.main(MainServer.java:7)] Address already in use: bind
+3. [Wed Mar 15 16:12:43 MSK 2023] Сервер остановлен
+1. [Wed Mar 15 16:13:00 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 16:13:00 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:17), ru.masshaos.MainServer.main(MainServer.java:7)] Address already in use: bind
+3. [Wed Mar 15 16:13:00 MSK 2023] Сервер остановлен
+1. [Wed Mar 15 16:13:13 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 16:13:13 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:17), ru.masshaos.MainServer.main(MainServer.java:7)] Address already in use: bind
+3. [Wed Mar 15 16:13:13 MSK 2023] Сервер остановлен
+1. [Wed Mar 15 16:14:32 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 16:14:32 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:17), ru.masshaos.MainServer.main(MainServer.java:7)] Address already in use: bind
+3. [Wed Mar 15 16:14:32 MSK 2023] Сервер остановлен
+1. [Wed Mar 15 16:15:58 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Wed Mar 15 16:15:58 MSK 2023] Сервер запущен по адресу: 192.168.1.123:4444
+3. [Wed Mar 15 16:16:08 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=62695,localport=4444]
+4. [Wed Mar 15 16:16:11 MSK 2023] Юзер "DIma" вошел в чат
+5. [Wed Mar 15 16:16:20 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=62703,localport=4444]
+6. [Wed Mar 15 16:16:25 MSK 2023] Юзер "Masha" вошел в чат
+7. [Wed Mar 15 16:16:42 MSK 2023] Клиент 3 подключен:Socket[addr=/127.0.0.1,port=62713,localport=4444]
+8. [Wed Mar 15 16:16:47 MSK 2023] Юзер "Nastya" вошел в чат
+9. [Wed Mar 15 16:16:50 MSK 2023] {Nastya}123
+10. [Wed Mar 15 16:17:59 MSK 2023] [java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313), java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340), java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789), java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025), java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333), java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376), java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219), java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173), java.base/java.io.InputStreamReader.read(InputStreamReader.java:189), java.base/java.io.BufferedReader.fill(BufferedReader.java:161), java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371), java.base/java.io.BufferedReader.readLine(BufferedReader.java:348), java.base/java.io.BufferedReader.readLine(BufferedReader.java:437), ru.masshaos.UserThread.run(UserThread.java:38)] Connection reset
+11. [Wed Mar 15 16:17:59 MSK 2023] Клиент3 отключен:Socket[addr=/127.0.0.1,port=62713,localport=4444]
+12. [Wed Mar 15 16:18:00 MSK 2023] [java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313), java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340), java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789), java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025), java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333), java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376), java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219), java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173), java.base/java.io.InputStreamReader.read(InputStreamReader.java:189), java.base/java.io.BufferedReader.fill(BufferedReader.java:161), java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371), java.base/java.io.BufferedReader.readLine(BufferedReader.java:348), java.base/java.io.BufferedReader.readLine(BufferedReader.java:437), ru.masshaos.UserThread.run(UserThread.java:38)] Connection reset
+13. [Wed Mar 15 16:18:00 MSK 2023] Клиент2 отключен:Socket[addr=/127.0.0.1,port=62703,localport=4444]
+14. [Wed Mar 15 16:18:02 MSK 2023] [java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313), java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340), java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789), java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025), java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333), java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376), java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219), java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173), java.base/java.io.InputStreamReader.read(InputStreamReader.java:189), java.base/java.io.BufferedReader.fill(BufferedReader.java:161), java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371), java.base/java.io.BufferedReader.readLine(BufferedReader.java:348), java.base/java.io.BufferedReader.readLine(BufferedReader.java:437), ru.masshaos.UserThread.run(UserThread.java:38)] Connection reset
+15. [Wed Mar 15 16:18:02 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=62695,localport=4444]
