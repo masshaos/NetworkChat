@@ -21,7 +21,6 @@ public class Logger {
     void log(String msg){
         try (FileWriter fileWriter = new FileWriter("log_server.log", true)){
             fileWriter.write(++count + ". [" + new Date() + "] "+msg + "\n");
-//            System.out.println(count + ". [" + new Date() + "] "+msg);
         }
         catch(IOException e){
             e.printStackTrace();

@@ -19,7 +19,7 @@ public class Client {
         try (Socket socket = new Socket(Settings.SERVER_NAME, Settings.PORT);
              PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
              BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-             Scanner scanner = new Scanner(System.in)
+             Scanner scanner = new Scanner(System.in, "cp866")
         ) {
             logger.log("К серверу подключен " + socket);
             System.out.println("Введите Ваше имя:");

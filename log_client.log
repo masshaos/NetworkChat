@@ -209,3 +209,16 @@
 7. [Wed Mar 15 16:16:50 MSK 2023] {Nastya} 123
 6. [Wed Mar 15 16:16:50 MSK 2023] {Nastya} 123
 5. [Wed Mar 15 16:16:50 MSK 2023] {Nastya} 123
+1. [Wed Mar 15 23:53:20 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Wed Mar 15 23:53:21 MSK 2023] Клиент запущен
+3. [Wed Mar 15 23:53:21 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=63986]
+4. [Wed Mar 15 23:53:27 MSK 2023] {Server} "Дима" вошел в чат
+1. [Wed Mar 15 23:53:41 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Wed Mar 15 23:53:41 MSK 2023] Клиент запущен
+3. [Wed Mar 15 23:53:42 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=64013]
+5. [Wed Mar 15 23:53:44 MSK 2023] {Server} "Маша" вошел в чат
+4. [Wed Mar 15 23:53:45 MSK 2023] {Server} "Маша" вошел в чат
+1. [Wed Mar 15 23:54:42 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Wed Mar 15 23:54:43 MSK 2023] Клиент запущен
+3. [Wed Mar 15 23:54:43 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=64077]
+4. [Wed Mar 15 23:54:49 MSK 2023] {Server} "Маша" вошел в чат

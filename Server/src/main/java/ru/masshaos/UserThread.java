@@ -73,7 +73,6 @@ public class UserThread extends Thread {
         try{
             Gson gson = new Gson();
             String jsonMessage = gson.toJson(message);
-            System.out.println("{" + message.getName() + "} " + message.getText());
             out.println(jsonMessage);
             } catch (Exception e) {
             logger.log(Arrays.toString(e.getStackTrace()) + " " + e.getMessage());
