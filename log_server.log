@@ -197,3 +197,21 @@
 4. [Wed Mar 15 23:54:49 MSK 2023] Юзер "Маша" вошел в чат
 5. [Thu Mar 16 00:01:01 MSK 2023] [java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313), java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340), java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789), java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025), java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333), java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376), java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219), java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173), java.base/java.io.InputStreamReader.read(InputStreamReader.java:189), java.base/java.io.BufferedReader.fill(BufferedReader.java:161), java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371), java.base/java.io.BufferedReader.readLine(BufferedReader.java:348), java.base/java.io.BufferedReader.readLine(BufferedReader.java:437), ru.masshaos.UserThread.run(UserThread.java:38)] Connection reset
 6. [Thu Mar 16 00:01:02 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=64077,localport=4444]
+1. [Thu Mar 16 22:56:10 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Thu Mar 16 22:56:10 MSK 2023] Сервер запущен по адресу: 192.168.1.135:4444
+3. [Thu Mar 16 22:56:50 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=60713,localport=4444]
+4. [Thu Mar 16 22:57:11 MSK 2023] Юзер "Lbvf" вошел в чат
+5. [Thu Mar 16 22:57:14 MSK 2023] Юзер "Lbvf" покинул чат
+6. [Thu Mar 16 22:57:14 MSK 2023] Клиент1 отключен:Socket[addr=/127.0.0.1,port=60713,localport=4444]
+1. [Thu Mar 16 23:01:53 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Thu Mar 16 23:01:53 MSK 2023] [java.base/sun.nio.ch.Net.bind0(Native Method), java.base/sun.nio.ch.Net.bind(Net.java:555), java.base/sun.nio.ch.Net.bind(Net.java:544), java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:629), java.base/java.net.ServerSocket.bind(ServerSocket.java:393), java.base/java.net.ServerSocket.<init>(ServerSocket.java:275), java.base/java.net.ServerSocket.<init>(ServerSocket.java:168), ru.masshaos.Server.<init>(Server.java:17), ru.masshaos.MainServer.main(MainServer.java:7)] Address already in use: bind
+3. [Thu Mar 16 23:01:53 MSK 2023] Сервер остановлен
+7. [Thu Mar 16 23:02:08 MSK 2023] Клиент 2 подключен:Socket[addr=/127.0.0.1,port=60978,localport=4444]
+1. [Thu Mar 16 23:03:55 MSK 2023] Прочитаны настройки из файла Server/src/main/resources/server.properties
+2. [Thu Mar 16 23:03:55 MSK 2023] Сервер запущен по адресу: 192.168.1.135:4444
+3. [Thu Mar 16 23:04:05 MSK 2023] Клиент 1 подключен:Socket[addr=/127.0.0.1,port=61001,localport=4444]
+4. [Thu Mar 16 23:04:09 MSK 2023] Юзер "Lbvf" вошел в чат
+5. [Thu Mar 16 23:05:30 MSK 2023] Клиент 2 подключен:Socket[addr=/192.168.1.135,port=61025,localport=4444]
+6. [Thu Mar 16 23:05:39 MSK 2023] Юзер ":JGF" вошел в чат
+7. [Thu Mar 16 23:05:58 MSK 2023] [java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313), java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340), java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789), java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025), java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333), java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376), java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219), java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173), java.base/java.io.InputStreamReader.read(InputStreamReader.java:189), java.base/java.io.BufferedReader.fill(BufferedReader.java:161), java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371), java.base/java.io.BufferedReader.readLine(BufferedReader.java:348), java.base/java.io.BufferedReader.readLine(BufferedReader.java:437), ru.masshaos.UserThread.run(UserThread.java:38)] Connection reset
+8. [Thu Mar 16 23:05:58 MSK 2023] Клиент2 отключен:Socket[addr=/192.168.1.135,port=61025,localport=4444]

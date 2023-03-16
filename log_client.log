@@ -222,3 +222,25 @@
 2. [Wed Mar 15 23:54:43 MSK 2023] Клиент запущен
 3. [Wed Mar 15 23:54:43 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=64077]
 4. [Wed Mar 15 23:54:49 MSK 2023] {Server} "Маша" вошел в чат
+1. [Thu Mar 16 22:56:50 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Thu Mar 16 22:56:50 MSK 2023] Клиент запущен
+3. [Thu Mar 16 22:56:50 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=60713]
+4. [Thu Mar 16 22:57:11 MSK 2023] {Server} "Lbvf" вошел в чат
+5. [Thu Mar 16 22:57:14 MSK 2023] {Server} "Lbvf" покинул чат
+6. [Thu Mar 16 22:57:14 MSK 2023] Клиентское приложение остановлено
+7. [Thu Mar 16 22:57:14 MSK 2023] Принятие входящих сообщений от Сервера прекращено
+1. [Thu Mar 16 22:58:27 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+1. [Thu Mar 16 23:02:08 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Thu Mar 16 23:02:08 MSK 2023] Клиент запущен
+3. [Thu Mar 16 23:02:08 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=60978]
+1. [Thu Mar 16 23:04:05 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Thu Mar 16 23:04:05 MSK 2023] Клиент запущен
+3. [Thu Mar 16 23:04:05 MSK 2023] К серверу подключен Socket[addr=localhost/127.0.0.1,port=4444,localport=61001]
+4. [Thu Mar 16 23:04:09 MSK 2023] {Server} "Lbvf" вошел в чат
+1. [Thu Mar 16 23:05:30 MSK 2023] Прочитаны настройки из файла Client/src/main/resources/client.properties
+2. [Thu Mar 16 23:05:30 MSK 2023] Клиент запущен
+3. [Thu Mar 16 23:05:30 MSK 2023] К серверу подключен Socket[addr=/192.168.1.135,port=4444,localport=61025]
+5. [Thu Mar 16 23:05:39 MSK 2023] {Server} ":JGF" вошел в чат
+4. [Thu Mar 16 23:05:39 MSK 2023] {Server} ":JGF" вошел в чат
+6. [Thu Mar 16 23:05:59 MSK 2023] [java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313), java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340), java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789), java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025), java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333), java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376), java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219), java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173), java.base/java.io.InputStreamReader.read(InputStreamReader.java:189), java.base/java.io.BufferedReader.fill(BufferedReader.java:161), java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371), java.base/java.io.BufferedReader.readLine(BufferedReader.java:348), java.base/java.io.BufferedReader.readLine(BufferedReader.java:437), ru.masshaos.ListenThread.run(ListenThread.java:23)] Connection reset
+7. [Thu Mar 16 23:05:59 MSK 2023] Принятие входящих сообщений от Сервера прекращено
