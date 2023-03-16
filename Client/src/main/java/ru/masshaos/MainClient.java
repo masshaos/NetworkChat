@@ -10,6 +10,6 @@ public class MainClient {
         if (args.length == 1) Settings.SERVER_NAME = args[0];
         System.out.println("SERVER NAME: " + Settings.SERVER_NAME);
 
-        Client client = new Client();
+        new Client();
     }
 }
